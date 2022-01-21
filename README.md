@@ -4,8 +4,6 @@
 
 * [Knowledge Graphs at a Glance](https://towardsdatascience.com/knowledge-graphs-at-a-glance-c9119130a9f0)
 
-* [RDF Graph Data Model](https://www.stardog.com/tutorials/data-model)
-
 * [Introducing Linked Data And The Semantic Web](http://www.linkeddatatools.com/semantic-web-basics)
 
 ## RDF - Resource Description Framework
@@ -103,6 +101,8 @@
 ### SPARQL Endpoint
 
 * [Apache Jena](https://jena.apache.org)
+  * [ARQ](https://jena.apache.org/documentation/query/index.html) (Command-line tool SPARQL tool)
+  * [Fuseki](https://jena.apache.org/documentation/fuseki2/) (SPARQL-over-HTTP endpoint)
 
 ### VScode
 
