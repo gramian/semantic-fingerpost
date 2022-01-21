@@ -6,6 +6,8 @@
 
 * [Introducing Linked Data And The Semantic Web](http://www.linkeddatatools.com/semantic-web-basics)
 
+* [What Do RDF and SPARQL bring to Big Data Projects?](https://doi.org/10.1089/big.2012.0004)
+
 ## RDF - Resource Description Framework
 
 * [Resource Description Framework](https://en.wikipedia.org/wiki/Resource_Description_Framework)
