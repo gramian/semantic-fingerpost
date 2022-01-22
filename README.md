@@ -52,18 +52,6 @@
 
 * [A Look at SPARQL - SQL for the Semantic Web](https://codyburleson.com/blog/a-look-at-sparql-sql-for-semantic-web)
 
-### Tips & Tricks
-
-* [Six Secret SPARQL Ninja Tricks](https://www.linkedin.com/pulse/six-secret-sparql-ninja-tricks-kurt-cagle)
-
-* [7 Steps to Fast SPARQL Queries](https://www.stardog.com/blog/7-steps-to-fast-sparql-queries/)
-
-* [Tuning SPARQL Queries](https://observablehq.com/@lomoramic/tuning-sparql-queries)
-
-* [SPARQL Tips Tricks and Tools](https://www.oclc.org/developer/news/2016/sparql-tips-tricks-tools.en.html)
-
-* [SPARQL Best Practices](https://docs.cambridgesemantics.com/anzo/v4.4/userdoc/sparql-queries.htm)
-
 ### Tutorials
 
 * [Constructing SPARQL Queries](https://medium.com/wallscope/constructing-sparql-queries-ca63b8b9ac02)
@@ -81,6 +69,22 @@
 * [SPARQL By Example](https://www.w3.org/2009/Talks/0615-qbe/)
 
 * [SPARQL Examples](https://codyburleson.com/search?q=%22SPARQL%20Examples%22)
+
+* [Wikidata:SPARQL tutorial](https://www.wikidata.org/wiki/Wikidata:SPARQL_tutorial)
+
+### Tips & Tricks
+
+* [Six Secret SPARQL Ninja Tricks](https://www.linkedin.com/pulse/six-secret-sparql-ninja-tricks-kurt-cagle)
+
+* [7 Steps to Fast SPARQL Queries](https://www.stardog.com/blog/7-steps-to-fast-sparql-queries/)
+
+* [Tuning SPARQL Queries](https://observablehq.com/@lomoramic/tuning-sparql-queries)
+
+* [SPARQL Tips Tricks and Tools](https://www.oclc.org/developer/news/2016/sparql-tips-tricks-tools.en.html)
+
+* [SPARQL Best Practices](https://docs.cambridgesemantics.com/anzo/v4.4/userdoc/sparql-queries.htm)
+
+* [Wikidata:SPARQL query service/query optimization](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/query_optimization)
 
 ## Books
 
