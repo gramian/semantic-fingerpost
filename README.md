@@ -109,6 +109,7 @@
 ### VScode
 
 * [Stardog RDF Grammars](https://marketplace.visualstudio.com/items?itemName=stardog-union.stardog-rdf-grammars&ssr=false#overview)
+* [Turtle Language Server](https://marketplace.visualstudio.com/items?itemName=stardog-union.vscode-langserver-turtle)
 
 ### GNU Guile
 
