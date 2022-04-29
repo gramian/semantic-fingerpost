@@ -74,6 +74,8 @@
 
 ### Tips & Tricks
 
+* [SPARQL - One Standard to Rule them All](https://blog.cambridgesemantics.com/sparql-one-standard-to-rule-them-all)
+
 * [Six Secret SPARQL Ninja Tricks](https://www.linkedin.com/pulse/six-secret-sparql-ninja-tricks-kurt-cagle)
 
 * [7 Steps to Fast SPARQL Queries](https://www.stardog.com/blog/7-steps-to-fast-sparql-queries/)
