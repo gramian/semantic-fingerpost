@@ -86,6 +86,8 @@
 
 * [SPARQL Best Practices](https://docs.cambridgesemantics.com/anzo/v4.4/userdoc/sparql-queries.htm)
 
+* [SPARQL Secrets in Jena-Fuseki](https://www.datasciencecentral.com/sparql-secrets-in-jena-fuseki/)
+
 * [Wikidata:SPARQL query service/query optimization](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/query_optimization)
 
 ## Books
