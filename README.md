@@ -114,6 +114,10 @@
   * [ARQ](https://jena.apache.org/documentation/query/index.html) (Command-line tool SPARQL tool)
   * [Fuseki](https://jena.apache.org/documentation/fuseki2/) (SPARQL-over-HTTP endpoint)
 
+### Query Editor
+
+* [YASGUI](https://www.npmjs.com/package/yasgui)
+
 ### VScode
 
 * [Stardog RDF Grammars](https://marketplace.visualstudio.com/items?itemName=stardog-union.stardog-rdf-grammars&ssr=false#overview)
@@ -132,6 +136,10 @@
 * [s-sparql](https://github.com/nathanielrb/s-sparql)
 
 * [rdf-ntriples](https://wiki.call-cc.org/eggref/3/rdf-ntriples)
+
+### Gauche Scheme
+
+* [gauche-rdf](https://github.com/keiji0/gauche-rdf)
 
 ### LiaScript
 
